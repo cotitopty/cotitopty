@@ -11,7 +11,8 @@ Buscando oportunidades como profesional en administración de infraestructura TI
 
 | Habilidad                                         | Proyecto Asociado         |
 |-----------------------------------------------|----------------------------|
-| Sistemas de tickets con GLPI    |<a href="https://.github.com/cotitopty/sistema_de_tickets/tree/main">GLPI</a>
+| Sistemas de tickets con GLPI    |
+<a href="https://.github.com/cotitopty/sistema_de_tickets/tree/main"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 | Monitoreo, Análisis de Logs y gestion de parches       | NAGIOS & GFI LanGuard|
 | Administración de Bases de Datos Oracle & Desarrollo | Soluciones Oracle Apex|
 | Administración de Servidores Windows & Linux        | Laboratorio de Infraestructura TI|
