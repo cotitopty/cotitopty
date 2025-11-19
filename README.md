@@ -12,7 +12,7 @@ Buscando oportunidades como profesional en administración de infraestructura TI
 | Habilidad                                         | Proyecto Asociado         |
 |-----------------------------------------------|----------------------------|
 | Sistemas de tickets  |<a href="https://github.com/cotitopty/sistema_de_tickets">GLPI</a>
-| Monitoreo, Análisis de Logs y gestion de parches       | NAGIOS & GFI LanGuard|
+| Monitoreo, Análisis de Logs y gestion de parches       | <a href="https://github.com/cotitopty/nagios-gfilanguard> NAGIOS & GFI LanGuard
 | Administración de Bases de Datos Oracle & Desarrollo | Soluciones Oracle Apex|
 | Administración de Servidores Windows & Linux        | Laboratorio de Infraestructura TI|
 | Virtualización (VMware/Hyper-V)              | Gestión del Centro de Datos|
