@@ -1,7 +1,7 @@
 # Hola, soy Heybar Jonattan Naranjo Arena
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/heybarj-naranjoa"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Profesional en administración de infraestructura TI con 18+ años de experiencia en administración de sistemas, soporte técnico y desarrollo de aplicaciones Oracle. Especializado en virtualización, gestión de bases de datos y soluciones de inteligencia empresarial.
+Profesional en administración de infraestructura TI con 12+ años de experiencia en administración de sistemas, soporte técnico y desarrollo de aplicaciones Oracle. Especializado en virtualización, gestión de bases de datos y soluciones de inteligencia empresarial.
 
 ## Objetivo
 
@@ -92,13 +92,6 @@ Buscando oportunidades como profesional en administración de infraestructura TI
 - **Soluciones de Inteligencia Empresarial** - Dashboards Power BI, análisis ETL, reportes de KPI
 - **Operaciones de Seguridad SOC** - Monitoreo NAGIOS, GFI LanGuard, procedimientos de respuesta a incidentes
 - **Administración de Redes** - Configuración de firewall, sistemas CCTV, supervisión de cableado estructurado
-
-## Contacto
-
-📧 **Correo:** hnaranjo1984@hotmail.com  
-📱 **Teléfono:** 62493112 / 66942996  
-📍 **Ubicación:** Las Cumbres, Panamá  
-🆔 **DNI:** 3-713-1957
 
 ---
 
