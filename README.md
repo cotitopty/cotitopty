@@ -16,8 +16,7 @@ Buscando oportunidades como profesional en administración de infraestructura TI
 | Desarrollos en Oracle Forms y Apex | Soluciones Oracle Apex|
 | Administración de Servidores Windows & Linux        | Laboratorio de Infraestructura TI|
 | Virtualización (VMware/Hyper-V)              | <a href="https://github.com/cotitopty/virtualizacion_vware_hyperv">VMware/Hyper-V</a>|
-| Monitoreo de Tráfico de Red y Seguridad      | Administración de Redes|
-| Automatización de Seguridad y Respuesta a Incidentes    | Laboratorio de Seguridad TI|
+| Desarrollo de sitios web     | Sitios Web|
 | Análisis ETL y Procesamiento de Datos             | SQL Server & Oracle|
 | Desarrollo de Inteligencia Empresarial & Dashboards| Análisis Power BI & Excel|
 | Cumplimiento ISO 27000 & ISO 9001              | Documentación & Auditorías|
