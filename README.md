@@ -14,8 +14,8 @@ Buscando oportunidades como profesional en administración de infraestructura TI
 | Sistemas de tickets  |<a href="https://github.com/cotitopty/sistema_de_tickets">GLPI</a>|
 | Monitoreo, Análisis de Logs y gestion de parches       | <a href="https://github.com/cotitopty/nagios-gfilanguard"> NAGIOS & GFI LanGuard</a>|
 | Desarrollos en Oracle Forms y Apex | Soluciones Oracle Apex|
-| Administración de Servidores Windows & Linux        | <a href="https://github.com/cotitopty/administracion_servidores>Servidores</a>|
-| Virtualización (VMware/Hyper-V)              | <a href="https://github.com/cotitopty/virtualizacion_vware_hyperv">VMware/Hyper-V</a>|
+| Administración de Servidores Windows & Linux        | <a href="https://github.com/cotitopty/administracion_servidores">Servidores</a>|
+| Virtualización (VMware/Hyper-V)                     | <a href="https://github.com/cotitopty/virtualizacion_vware_hyperv">VMware/Hyper-V</a>|
 | Tienda Online empresarial para ventas al por menor     | <a href="https://packit.net">PACKIT</a>|
 | Análisis ETL y Procesamiento de Datos             | SQL Server & Oracle|
 | Desarrollo de Inteligencia Empresarial & Dashboards| Análisis Power BI & Excel|
