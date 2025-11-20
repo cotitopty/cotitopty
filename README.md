@@ -1,4 +1,4 @@
-# Hola, soy Heybar Jonattan Naranjo Arena
+# Heybar Jonattan Naranjo Arena
 <a href="www.linkedin.com/in/heybarj-naranjoa"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Profesional en administración de infraestructura TI con 12+ años de experiencia en administración de sistemas, soporte técnico y desarrollo de aplicaciones Oracle. Especializado en virtualización, gestión de bases de datos y soluciones de inteligencia empresarial.
